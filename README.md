@@ -15,5 +15,5 @@ Front-end with React, HTML, JS, CSS, Ajax.
 --------------------------------------------
 Back-end with API .net, C#, Node.js.
 --------------------------------------------
-Other tools: Postman and SQL.
+Other tools: Postman.
 -------------------------------------------
