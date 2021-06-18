@@ -17,3 +17,4 @@ Back-end with API .net, C#, Node.js.
 --------------------------------------------
 Other tools: Postman.
 -------------------------------------------
+The application is divided into 2 parts, the REACT part and the API part. See the repositories.
